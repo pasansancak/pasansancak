@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pasansancak
-- 👀 I’m interested in machine learning, ai and space technologies.
-- 🌱 I’m currently learning Java and Ardunio.
+- 👀 I’m interested in cyber-security, AIoT and ai technologies.
 - 💞️ I’m looking to collaborate on my public projects.
 - 📫 How to reach me --> pasansancakk@gmail.com
 
