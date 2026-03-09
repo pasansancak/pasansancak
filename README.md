@@ -13,7 +13,7 @@ I turn complex engineering data into clear, actionable insights.
 **Databases:** PostgreSQL  
 **Visualization:** Tableau, Power BI  
 **Automotive:** CANape, CANalyzer, ETAS INCA/MDA  
-**Other:** ETL pipelines, REST APIs, Git, Jupyter Notebook
+**Other:** ETL pipelines, REST APIs, Git, Jupyter Notebook, C++, Java OOP , RESTful APIs
 
 ---
 
