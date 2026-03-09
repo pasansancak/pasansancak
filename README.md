@@ -22,7 +22,7 @@ I turn complex engineering data into clear, actionable insights.
 | Project | Tools | Description |
 |--------|-------|-------------|
 | 🚗 [Vehicle Telematics & Fleet Fuel Analysis](https://github.com/pasansancak/vehicle-telematics) | Python, pandas, numpy | Fleet fuel efficiency analysis on 3.1M real OBD records — speed zones, gear estimation & trip-level consumption. |
-| 🏭 [Manufacturing Quality Prediction](https://github.com/pasansancak/manufacturing-quality) | Python, Scikit-learn | Defect detection model inspired by Bosch production line experience |
+| 🏭 [Manufacturing Quality Prediction](https://github.com/pasansancak/manufacturing-quality) | Python, Scikit-learn | Defect detection model |
 
 ---
 
