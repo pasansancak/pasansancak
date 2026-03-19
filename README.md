@@ -21,8 +21,8 @@ I turn complex engineering data into clear, actionable insights.
 
 | Project | Tools | Description |
 |--------|-------|-------------|
-| 🚗 [Vehicle Telematics & Fleet Fuel Analysis](https://github.com/pasansancak/vehicle-telematics) | Python, pandas, numpy | Fleet fuel efficiency analysis on 3.1M real OBD records — speed zones, gear estimation & trip-level consumption. |
-| 🏭 [Manufacturing Quality Prediction](https://github.com/pasansancak/manufacturing-quality) | Python, Scikit-learn | Defect detection model |
+| 🚗 [Vehicle Telematics & Fleet Fuel Analysis](https://github.com/pasansancak/vehicle-telematics) | Python, Pandas, NumPy, Scikit-learn, CatBoost | Fleet fuel efficiency analysis on 3.1M real OBD records — speed zones, gear estimation, trip-level consumption & ML prediction model. |
+| 🛒 [E-Commerce Seller Insights](https://github.com/pasansancak/ecommerce-seller-insights) | Python, SQL, DuckDB | Seller performance & buyer behavior analysis on 100k+ real marketplace orders — delivery performance, customer retention & GMV impact. |
 
 ---
 
@@ -30,3 +30,5 @@ I turn complex engineering data into clear, actionable insights.
 
 [LinkedIn](https://linkedin.com/in/pasansancak) · [Upwork](https://www.upwork.com/freelancers/~019d81f8710bda98b5) · Istanbul, Turkey  
 🇹🇷 Turkish · 🇬🇧 English · 🇩🇪 German
+
+
