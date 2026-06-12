@@ -9,10 +9,10 @@ I turn complex engineering data into clear, actionable insights.
 
 ## 🛠️ Tools & Stack
 
-**Languages:** Python (Pandas, NumPy, Scikit-learn, Selenium), SQL, HTML/CSS/JS, C++, Java OOP
+**Languages:** Python (Pandas, NumPy, Scikit-learn, Selenium), SQL, HTML/CSS/JS, C++, Java OOP  
 **Databases:** PostgreSQL, Advanced Excel, Power Query  
 **Visualization:** Tableau, Power BI  
-**Automotive:** CANape, CANalyzer, CANoe, vFlash, ETAS INCA/MDA
+**Automotive:** CANape, CANalyzer, CANoe, vFlash, ETAS INCA/MDA  
 **Other:** ETL pipelines, REST APIs, Git, Jupyter Notebook, C++, Java OOP , RESTful APIs
 
 ---
