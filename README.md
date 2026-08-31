@@ -28,6 +28,7 @@ I turn complex engineering data into clear, actionable insights.
 
 ## 🌍 Connect
 
+📧 pasansancakk@gmail.com
 [LinkedIn](https://linkedin.com/in/pasansancak) · [Upwork](https://www.upwork.com/freelancers/~019d81f8710bda98b5) · Istanbul, Turkey  
 🇹🇷 Turkish · 🇬🇧 English · 🇩🇪 German
 
